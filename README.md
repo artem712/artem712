@@ -4,7 +4,7 @@
     <a href="/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://github.com/greenland777">
+    <a href="https://github.com/greenwood712">
       <img src="https://img.shields.io/badge/GitHub-purple?style=for-the-badge&logo=github&logoColor=white" alt="Youtube Badge"/>
     </a>
     <a href="your-twitter-URL">
@@ -12,7 +12,7 @@
     </a>
   </div>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=artem712&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=greenwood712&style=flat-square&color=blue" alt=""/>
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="400"/>
@@ -30,7 +30,7 @@ I have a deep knowledge of many high-level programming languages and related fra
 
 Own the development of product features end-toend including scoping, architecting, coding, testing and rolling out features
 
-📫 You can contact me by   <a href='https://www.linkedin.com/in/corney-micheal-b5953b227/'><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="30"/></a> and 📫freelance1773@gmail.com.
+📫 You can contact me by   <a href='https://www.linkedin.com/in/'><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="30"/></a> and 📫freelance1773@gmail.com.
 <br><br>
 
 # 🔨 Languages and Tools:
@@ -65,7 +65,7 @@ Own the development of product features end-toend including scoping, architectin
 
 # 💖 My stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greenland777&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greenwood712&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=greenland777&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=greenwood712&theme=dark&background=000000)](https://git.io/streak-stats)
 
