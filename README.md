@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <div id="badges">
+<!--   <div id="badges">
     <a href="/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
@@ -10,7 +10,7 @@
     <a href="your-twitter-URL">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
-  </div>
+  </div> -->
   <br>
   <img src="https://komarev.com/ghpvc/?username=greenwood712&style=flat-square&color=blue" alt=""/>
 </div>
@@ -18,17 +18,17 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="400"/>
 </div>
 
-👋 Hi, I’m skilled and motivated full-stack developer with 8+ years of experience. I have created 60+ websites using the several programming languages and frameworks.
+👋 Hi, I’m skilled and motivated full-stack developer with 6+ years of experience. I have created 60+ websites using the several programming languages and frameworks.
 
 👀 Advanced in many languages and frameworks such as JavaScript/React,Vue and Python/Django,Flask.
 
-I have a deep knowledge of many high-level programming languages and related frameworks (I mostly use Django and Python, but seek overall skill vs specific expertise).
+I have a deep knowledge of many high-level programming languages and related frameworks (I mostly use MERN and Python/Django stack, but seek overall skill vs specific expertise).
 
 ⭐I received 95% positive feedback from management for punctuality, preventability, and flexibility.⭐
 
-💞️ I am seeking a full-stack developer position with a company which will require me to utilize my skills, abilities and experience in the IT field to ensure the company’s success.
+💞️ Built 10+ E-Commerce websites using Shopify, Magento, and Headless CMS (Strapi,Contentful).
 
-Own the development of product features end-toend including scoping, architecting, coding, testing and rolling out features
+Own the development of product features end-to-end including scoping, architecting, coding, testing, and rolling out features.
 
 📫 You can contact me by   <a href='https://www.linkedin.com/in/'><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="30"/></a> and 📫freelance1773@gmail.com.
 <br><br>
