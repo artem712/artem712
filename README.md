@@ -14,9 +14,9 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=greenwood712&style=flat-square&color=blue" alt=""/>
 </div>
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="400"/>
-</div>
+</div> -->
 
 👋 Hi, I’m skilled and motivated full-stack developer with 6+ years of experience. I have created 60+ websites using the several programming languages and frameworks.
 
@@ -66,6 +66,5 @@ Own the development of product features end-to-end including scoping, architecti
 # 💖 My stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greenwood712&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=greenwood712&theme=dark&background=000000)](https://git.io/streak-stats)
 
