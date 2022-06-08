@@ -38,31 +38,31 @@ Own the development of product features end-to-end including scoping, architecti
 <div>
   <table>
     <tr>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40"/>&nbsp;</td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40"/>&nbsp;</td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40"/>&nbsp;</td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="40"/>&nbsp;</td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>&nbsp;</td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" width="40"/>&nbsp;</td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" width="40"/>&nbsp;</td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" width="40" />&nbsp;</td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40"/>&nbsp;</td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" width="40"/>&nbsp;</td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="40"/>&nbsp;</td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="40"/>&nbsp;</td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40"/></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40"/></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40"/></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="40"/></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" width="40"/></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" width="40"/></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" width="40" /></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40"/></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" width="40"/></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="40"/></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="40"/></td>
     </tr>
     <tr>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="40"/>&nbsp;</td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="40"/>&nbsp;</td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" width="40"/>&nbsp;</td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>&nbsp;</td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>&nbsp;</td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>&nbsp;</td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="40">&nbsp;</td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40"/>&nbsp;</td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="40"/>&nbsp;</td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" width="40"/>&nbsp;</td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40"/>&nbsp;</td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="40"/></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="40"/></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" width="40"/></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="40"></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40"/></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="40"/></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" width="40"/></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40"/></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/></td>
     </tr>
   </table>
