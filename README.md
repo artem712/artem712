@@ -4,7 +4,7 @@
     <a href="/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://github.com/greenwood712">
+    <a href="https://github.com/greenwood0712">
       <img src="https://img.shields.io/badge/GitHub-purple?style=for-the-badge&logo=github&logoColor=white" alt="Youtube Badge"/>
     </a>
     <a href="your-twitter-URL">
@@ -12,7 +12,7 @@
     </a>
   </div> -->
   <br>
-  <img src="https://komarev.com/ghpvc/?username=greenwood712&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=greenwood0712&style=flat-square&color=blue" alt=""/>
 </div>
 <!-- <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="400"/>
@@ -71,7 +71,7 @@ Own the development of product features end-to-end including scoping, architecti
 
 # 💖 My stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greenwood712&layout=compact&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greenwood0712&layout=compact&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=greenwood712&theme=green_nur)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=greenwood0712&theme=green_nur)](https://git.io/streak-stats)
 
