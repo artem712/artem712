@@ -33,6 +33,8 @@ Own the development of product features end-to-end including scoping, architecti
 📫 You can contact me by   <a href='https://www.linkedin.com/in/'><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="30"/></a> and 📫freelance1773@gmail.com.
 <br><br>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=greenwood0712)](https://github.com/ryo-ma/github-profile-trophy)
+
 # 🔨 Languages and Tools:
 
 <div>
