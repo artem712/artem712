@@ -94,7 +94,7 @@ Own the development of product features end-to-end including scoping, architecti
 </h2>
 
 <div align="center">
-<div>
+<div display="flex">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greenwood0712&layout=compact&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
 <img  src = "https://github-readme-stats.vercel.app/api?username=greenwood0712&show_icons=true&theme=radical&line_height=27">
