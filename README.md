@@ -13,6 +13,8 @@
   </div> -->
   <br>
   <img src="https://komarev.com/ghpvc/?username=greenwood712&style=flat-square&color=blue" alt=""/>
+  <img src="https://badges.pufler.dev/repos/greenwood0712"/>
+ <img src="https://badges.pufler.dev/commits/monthly/greenwood0712" />
 </div>
 <!-- <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="400"/>
@@ -33,12 +35,11 @@ Own the development of product features end-to-end including scoping, architecti
 📫 You can contact me by   <a href='https://www.linkedin.com/in/'><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="30"/></a> and 📫freelance1773@gmail.com.
 <br><br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=greenwood0712)](https://github.com/ryo-ma/github-profile-trophy)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&margin-w=15&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-# 🔨 Languages and Tools:
+<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 
-<div>
+<div align="center">
   <table>
     <tr>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40"/></td>
@@ -72,9 +73,14 @@ Own the development of product features end-to-end including scoping, architecti
 </div><br>
 
 
-# 💖 My stats:
+<h2 align="center">
+  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+</h2>
+
+<div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greenwood0712&layout=compact&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=greenwood0712&theme=green_nur)](https://git.io/streak-stats)
+</div>
 
