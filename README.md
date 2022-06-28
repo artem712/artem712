@@ -32,10 +32,19 @@ I have a deep knowledge of many high-level programming languages and related fra
 
 Own the development of product features end-to-end including scoping, architecting, coding, testing, and rolling out features.
 
-📫 You can contact me by   <a href='https://www.linkedin.com/in/'><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="30"/></a> and 📫freelance1773@gmail.com.
-<br><br>
+<h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&margin-w=15&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+<a href="mailto: freelance1773@gmail.com">
+ <img src="https://img.shields.io/badge/-GreenWood-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:freelance1773@gmail.com"/>
+</a>
+<a href="https://t.me/tinyHelper712/">
+ <img src="https://img.shields.io/badge/-tiny-blue?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/tinyHelper712/"/>
+</a>
+<a href="https://join.skype.com/invite/DTcWEdFN53GY/">
+ <img src="https://img.shields.io/badge/-TopDev-blue?style=flat-square&logo=skype&logoColor=white&link=https://join.skype.com/invite/DTcWEdFN53GY/"/>
+</a>
+</p>
 
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 
@@ -46,17 +55,21 @@ Own the development of product features end-to-end including scoping, architecti
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40"/></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40"/></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="40"/></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" width="40"/></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" width="40"/></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" width="40"/></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="40"/></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="40"/></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" width="40" /></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40"/></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" width="40"/></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="40"/></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="40"/></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="40"/></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width="40"/></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-plain.svg" width="40"/></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" width="40"/></td>
     </tr>
     <tr>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="40"/></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="40"/></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="40"/></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="40"/></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" width="40"/></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></td>
@@ -72,15 +85,26 @@ Own the development of product features end-to-end including scoping, architecti
   </table>
 </div><br>
 
+<hr>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&margin-w=15&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h2 align="center">
   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </h2>
 
 <div align="center">
+<div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greenwood0712&layout=compact&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
+<img  src = "https://github-readme-stats.vercel.app/api?username=greenwood0712&show_icons=true&theme=radical&line_height=27">
+</div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=greenwood0712&theme=green_nur)](https://git.io/streak-stats)
 </div>
 
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=greenwood0712&theme=redical">
+</p> 
+<hr>
+<p align="center">If you like it, do fork 🍴 and star ⭐</p>
