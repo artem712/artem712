@@ -34,6 +34,7 @@ Own the development of product features end-to-end including scoping, architecti
 <br><br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=greenwood0712)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 # 🔨 Languages and Tools:
 
