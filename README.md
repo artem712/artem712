@@ -13,8 +13,8 @@
   </div> -->
   <br>
   <img src="https://komarev.com/ghpvc/?username=greenwood712&style=flat-square&color=blue" alt=""/>
-  <img src="https://badges.pufler.dev/repos/greenwood0712"/>
- <img src="https://badges.pufler.dev/commits/monthly/greenwood0712" />
+  <!-- <img src="https://badges.pufler.dev/repos/greenwood0712"/>
+  <img src="https://badges.pufler.dev/commits/monthly/greenwood0712" /> -->
 </div>
 <!-- <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="400"/>
