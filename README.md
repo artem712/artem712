@@ -4,7 +4,7 @@
     <a href="/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://github.com/greenwood0712">
+    <a href="https://github.com/smartdev0712">
       <img src="https://img.shields.io/badge/GitHub-purple?style=for-the-badge&logo=github&logoColor=white" alt="Youtube Badge"/>
     </a>
     <a href="your-twitter-URL">
@@ -96,15 +96,15 @@ Own the development of product features end-to-end including scoping, architecti
 <div align="center">
 <p align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greenwood0712&layout=compact&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
-<img  src = "https://github-readme-stats.vercel.app/api?username=greenwood0712&show_icons=true&theme=radical&line_height=27">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smartdev0712&layout=compact&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
+<img  src = "https://github-readme-stats.vercel.app/api?username=smartdev0712&show_icons=true&theme=radical&line_height=27">
 </p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=greenwood0712&theme=green_nur)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=smartdev0712&theme=green_nur)](https://git.io/streak-stats)
 </div>
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=greenwood0712&theme=redical">
+ <img src="https://activity-graph.herokuapp.com/graph?username=smartdev0712&theme=redical">
 </p> 
 <hr>
 <p align="center">If you like it, do fork 🍴 and star ⭐</p>
