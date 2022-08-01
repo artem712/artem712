@@ -39,7 +39,7 @@ Own the development of product features end-to-end including scoping, architecti
  <img src="https://img.shields.io/badge/-GreenWood-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:freelance1773@gmail.com"/>
 </a>
 <a href="https://t.me/greenland712/">
- <img src="https://img.shields.io/badge/-tiny-blue?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/greenland712/"/>
+ <img src="https://img.shields.io/badge/-TopDev-blue?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/greenland712/"/>
 </a>
 <a href="https://join.skype.com/invite/DTcWEdFN53GY/">
  <img src="https://img.shields.io/badge/-TopDev-blue?style=flat-square&logo=skype&logoColor=white&link=https://join.skype.com/invite/DTcWEdFN53GY/"/>
